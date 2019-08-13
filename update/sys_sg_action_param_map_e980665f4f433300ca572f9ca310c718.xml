@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create New">ad5dd2db4f433300ca572f9ca310c7f1</button>
+        <item_parameter display_value="Short description">5a9c9a5b4f433300ca572f9ca310c7de</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-09 07:57:31</sys_created_on>
+        <sys_id>e980665f4f433300ca572f9ca310c718</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5a9c9a5b4f433300ca572f9ca310c7de</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_e980665f4f433300ca572f9ca310c718</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-09 07:57:31</sys_updated_on>
+        <ui_parameter display_value="Short description">6120625f4f433300ca572f9ca310c792</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
